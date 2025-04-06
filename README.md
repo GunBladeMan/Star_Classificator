@@ -1,1 +1,2 @@
 # Star_Classificator
+____
